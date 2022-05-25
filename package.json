@@ -1,0 +1,25 @@
+{
+  "name": "swp-dabad",
+  "version": "1.0.0",
+  "description": "Front End for SWP and FER",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuDucAnh2901/SWP-DABAD-FrontEnd.git"
+  },
+  "author": "AnhVDSE161410",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuDucAnh2901/SWP-DABAD-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/VuDucAnh2901/SWP-DABAD-FrontEnd#readme"
+}
